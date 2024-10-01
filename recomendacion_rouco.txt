@@ -1,0 +1,34 @@
+Hola Pepe,
+
+Recomendarte UN libro es muy complicado, porque según qué cosa se cubre mejor en uno u otro (o incluso poco o nada en varios), y por otro lado leerlos todos enternos no tiene sentido (son muy extensos y cubren mucho más de lo que vamos a dar), y además cada uno tiene un enfoque muy diferente. Leer alguno como fuente princial, y usar el resto para completar sería una posibilidad. Otra posibilidad es usar todos de referencia e ir topic a topic.
+
+En general, las referencias de la guia docente están puestas como un ejemplo de donde (más o menos) se cubre algo de todo, y por completitud. Se usarían entonces, como referencia.
+
+Te explico, por qué estas referencias, y luego te sugiero algún libro "más asequible" para leerte.
+
+En general, podemos ver 2 enfoques generales: Los libros de "image processing" por un lado, y los libros de "computer vision" por el otro. Luego habrá libros más especializados en aspectos concretos para dar profundidad.
+
+"Image processing" implica procesado básico, desde la formación de imagen, pasando por color, brillo y contraste, transformada de Fourier, filtrado espacial y en frecuencia, detección de bordes, segmentación básica, etc. Se suelen quedar en este nivel.
+
+Como libro de "image processing" he puesto el Gonzalez & Woods. Este libro es un clásico del tema, que cubre de todo (casi una enciclopedia), incluyendo cosas que no son procesado como tal. Aparte de que habrá alguna edición en la biblioteca, es facil de encontrar "por ahí". Y si bien cubre todo, no es ni el libro más claro, ni el que mejor explica nada, pero es eso: un clásico. Imposible leerlo entero, es un libro de referencia. Pero tiene todo o casi todo.
+
+Otras recomendaciones que para mi estan mejor explicadas (si las encuentras):
+Bovik, "Essential guide to image processing"
+Los 3 de Burger y Burge, "Pinciples of Digital Image Processing" ("Core algorithms", "Fundamental Techniques" y "Advanced Methods"), sobre todo si quieres conocer hasta el último detalle de los métodos y como implementarlos.
+Por otro lado, "Computer vision" implica análisis y reconocimiento de patrones, así como aplicaciones concretas. Pueden cubrir desde detección de bordes y fundamentos de procesado hasta diferentes tipos de representación y reconocimiento. En general trabajan a más alto nivel.
+
+Como libro de "computer vision" he puesto el Forsyth & Ponce. Otro clásico "facil de encontrar". Cubre más cosas de las que vamos a ver en este tema. Sobre todo porque nos centraremos cuanto antes en representación de características para usar con aprendizaje automático, más que explorar muchos algoritmos.
+
+También he puesto el Szeliski, que tiene un enfoque similar (aunque más escueto en cada tema), y que supone un libro facil de leer para hacerse una idea general. Aunque no cubre todo lo que veremos en clase con suficiente profunidad y hay otras cosas que cubre que no veremos. El motivo de esta recomendación es que lo tenéis disponible gratis en su web: https://szeliski.org/Book/. No cuesta nada tenerlo por ahí.
+
+El Nixon y el Torralba son extras, con enfoques que en general me gustan. El primero porque tiene un enfoque muy centrado en la representación de características desde el procesado de imagen, y el segundo porque tiene un enfoque muy moderno (más centrado en deep learning) pero sin olvidar los fundamentos de procesado. Son buenos libros para en general, que pueden ser útiles para la mayor parte de temas, y por curiosidad.
+
+Otros libros que recomendaría, con un enfoque bastante completo, y que probablemente podrían valer como libros base autocontenidos (o para leer capítulos completos) de una asignatura como PVC serían:
+Sonka, Hlavac & Boyle, "Image Processing, Analysis and Machine Vision"
+Kettle, "Concise Computer Vision An Introduction into Theory and Algorithms"
+De hecho, el Sonka debería haberlo puesto en la lista de referencias. Te recomiendo el Sonka.
+
+Un saludo,
+José Rouco
+
+
